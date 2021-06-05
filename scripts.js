@@ -1,3 +1,3 @@
 $('#one').text('Macrotis');
-$("two").border("purple");
-$("p").backgroundColor("yellow");
+$("two").borderColor("purple");
+$("p").css("backgroungcolor", "yellow");
