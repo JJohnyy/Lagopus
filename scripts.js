@@ -1,5 +1,3 @@
-
-$(function) {
-    $('#one').text('Macrotis');
-
-});
+$('#one').text('Macrotis');
+$("two").border("purple");
+$("p").backgroundColor("yellow");
